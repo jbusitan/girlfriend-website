@@ -44,7 +44,7 @@ replace this with your real website URL.
 */
 
 const websiteURL =
-    "https://yourwebsite.com";
+    "https://jbusitan.github.io/girlfriend-website/";
 
 const qrCode =
     document.getElementById("qrCode");
